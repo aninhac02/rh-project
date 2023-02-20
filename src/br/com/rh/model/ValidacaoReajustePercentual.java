@@ -4,7 +4,6 @@ import br.com.rh.exception.ValidacaoException;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
-import java.time.LocalDate;
 
 public class ValidacaoReajustePercentual implements ValidacaoReajuste{
 
